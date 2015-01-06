@@ -3,7 +3,7 @@ Sketeor
 ## Table of Content
 
 - [What is Sketeor](#What-is-Sketeor)
-- [Installation and use](#Installation-and-use)
+- [Installation and use](#Installation-and-use) 
 - [Sketeor features](#Sketeor-features)
   - [Folder structure](#Folder-structure)
   - [Installed packages](#Installed-packages)
