@@ -2,11 +2,11 @@ Sketeor
 =======
 ## Table of Content
 
-- [What is Sketeor](#What-is-Sketeor)
-- [Installation and use](#Installation-and-use) 
-- [Sketeor features](#Sketeor-features)
-  - [Folder structure](#Folder-structure)
-  - [Installed packages](#Installed-packages)
+- [What is Sketeor](#what-is-Sketeor)
+- [Installation and use](#installation-and-use)
+- [Sketeor features](#sketeor-features)
+  - [Folder structure](#folder-structure)
+  - [Installed packages](#installed-packages)
     - [CoffeeScript](#coffeescript)
     - [BootStrap](#bootstrap)
 
