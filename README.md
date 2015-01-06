@@ -1,4 +1,7 @@
-sketeor
+Sketeor
 =======
+## What is sketeor
 
-The skeleton of a meteor boilerplate, 
+Sketeor is the skeleton of a Meteor.Js boilerplate, 
+
+
