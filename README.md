@@ -98,5 +98,15 @@ server/
 
 #### CoffeeScript
 
+The latest Coffeescript package
+
 #### Bootstrap
+
+#### Iron Router
+
+#### Accounts Password
+
+#### Alanning Roles
+
+
 

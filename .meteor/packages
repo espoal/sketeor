@@ -8,3 +8,6 @@ meteor-platform
 autopublish
 insecure
 coffeescript
+iron:router
+accounts-password
+alanning:roles
