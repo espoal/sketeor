@@ -1,15 +1,25 @@
 Sketeor
 =======
-# Table of Content
+## Table of Content
+
+- [What is Sketeor](#What-is-Sketeor)
+- [Installation and use](#Installation-and-use)
+- [Sketeor features](#Sketeor-features)
+  - [Folder structure](#Folder-structure)
+  - [Installed packages](#Installed-packages)
+    - [CoffeeScript](#coffeescript)
+    - [BootStrap](#bootstrap)
 
 
-# What is Sketeor
+
+
+## What is Sketeor
 
 Sketeor is the skeleton of a Meteor.Js boilerplate. It's goal is to be an easy to use template, to speed up Meteor development.
 
 The main difference from other templates is the default support for **CoffeeScript**.
 
-# Installation and use
+## Installation and use
 
 Installing is very very easy. Just type:
 
@@ -34,9 +44,9 @@ I will try to always keep Meteor and the installed packages updated, but in case
 
 Having an always updated skeleton is very useful for people who, like me, happens to work from a slow or mobile connection.
 
-# Sketeor features
+## Sketeor features
 
-## Folder structure
+### Folder structure
 
 As we aim for [convention over configuration](http://en.wikipedia.org/wiki/Convention_over_configuration), I structured the folder structure to help developers organize their files:
 
@@ -49,7 +59,7 @@ client/
   ├── router/
   └── stylesheets/
     ├── bootstrap/
-    ├── bootstrap-ext/ 
+    ├── bootstrap-ext/
     ├── font-awesome/
     ├── global.less
     ├── mixins.import.less
@@ -84,9 +94,9 @@ server/
 ```
 
 
-## Installed packages
+### Installed packages
 
-### CoffeeScript
+#### CoffeeScript
 
-### Bootstrap
+#### Bootstrap
 
