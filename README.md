@@ -13,7 +13,7 @@ Sketeor
 
 
 
-## What is Sketeor
+## What is Sketeor?
 
 Sketeor is the skeleton of a Meteor.Js boilerplate. It's goal is to be an easy to use template, to speed up Meteor development.
 
