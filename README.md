@@ -12,6 +12,8 @@ Sketeor
 
 
 
+** NOT READY YET **
+
 
 ## What is Sketeor?
 
