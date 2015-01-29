@@ -8,18 +8,23 @@ Sketeor
   - [Folder structure](#folder-structure)
   - [Installed packages](#installed-packages)
     - [CoffeeScript](#coffeescript)
+    - [Jade](#jade)
     - [BootStrap](#bootstrap)
+    - [Less and SaSS](#less-and-sass)
+    - [Fonts Awesome](#fontsawesome)
+    - [Iron Router](#iron-router)
+  - [Suggested packages](#suggested-packages)
 
 
 
-** NOT READY YET **
+** ALPHA STAGE **
 
 
 ## What is Sketeor?
 
-Sketeor is the skeleton of a Meteor.Js boilerplate. It's goal is to be an easy to use template, to speed up Meteor development.
+Sketeor is the skeleton of an opinionated Meteor.Js boilerplate. It's goal is to be an easy to use template, to speed up Meteor development.
 
-The main difference from other templates is the default support for **CoffeeScript**.
+The main difference from other templates is the default support for **CoffeeScript**, **Jade**, **LESS/SASS** and **Bootstrap** .
 
 ## Installation and use
 
@@ -98,13 +103,36 @@ server/
 
 ### Installed packages
 
+The packages installed by default in Sketeor:
+
 #### CoffeeScript
+
+The latest Coffeescript package
+
+#### Jade
+
+Wonderful mquandalle:jade
+
+#### Less and SaSS
 
 The latest Coffeescript package
 
 #### Bootstrap
 
+via the Less based nemo64:bootstrap
+
+#### Fontsawesome
+
+The official one
+
 #### Iron Router
+
+How could you ship without it?
+
+
+### Optional Packages
+
+A list of optional, but strongly suggested packages
 
 #### Accounts Password
 
