@@ -10,4 +10,6 @@ insecure
 coffeescript
 iron:router
 accounts-password
-alanning:roles
+mquandalle:jade
+less
+nemo64:bootstrap
