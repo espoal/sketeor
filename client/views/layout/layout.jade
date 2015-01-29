@@ -1,2 +1,6 @@
 template(name='layout')
- | +yield
+    .container-fluid
+        .row
+            .col-md-2 Sinistra
+            .col-md-6 centrale {{ > yield }}
+            .col-md-3 Destra
