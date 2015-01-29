@@ -1,0 +1,17 @@
+html,body {
+    height:100%;
+}
+.mainbox, .row, .leftcol, .rightcol {
+    height:100%;
+    min-height:100%;
+}
+
+.leftcol
+{
+    background: cornflowerblue;
+}
+
+.rightcol {
+    background: yellowgreen;
+    float: right;
+}
